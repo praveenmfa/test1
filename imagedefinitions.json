@@ -1,0 +1,6 @@
+[
+  {
+    "name": "Sample_container-service",
+    "imageUri": "959166133864.dkr.ecr.us-east-2.amazonaws.com/sample_cluster_repo:latest"
+  }
+]
